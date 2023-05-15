@@ -1,4 +1,240 @@
  export default [
+
+        
+{
+    "source": {
+    "id": null,
+    "name": "India Today"
+    },
+    "author": "Ankita Chakravarti",
+    "title": "Realme 11 Pro+ with 200 megapixel camera set to launch in India on May 16: price, specs and other details - India Today",
+    "description": "The Realme 11 Pro+  will feature a 200-megapixel camera and the smartphone also features an interesting camera module hugely inspired by the latest-camera centric phones like the Vivo X90 Pro, Xiaomi 13 Ultra and more.",
+    "url": "https://www.indiatoday.in/technology/news/story/realme-11-pro-with-200-megapixel-camera-set-to-launch-in-india-on-may-16-price-specs-and-other-details-2378748-2023-05-13",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/screenshot_2023-05-13_at_4.55.51_pm-sixteen_nine.png?VersionId=8YZ.sCx.93cbEryy2LQzxhh3uphVEfjO",
+    "publishedAt": "2023-05-13T11:30:41Z",
+    "content": "By Ankita Chakravarti: Realme 11 series is all set to debut in India. The smartphone company is expected to launch the Realme 11 Pro+ and the Realme 11 Pro in India on May 16. Although Realme has not… [+2319 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Jagran.com"
+    },
+    "author": "Vikas Yadav",
+    "title": "Pixel 7a Alternatives: OnePlus 11R, Xiaomi 12 Pro And More, Top 5 Phones You Can Consider - Jagran English",
+    "description": "Google Pixel 7a Alternatives Here is a listicle of the phones priced close to the Pixel 7a which you can consider buying",
+    "url": "https://english.jagran.com/technology/pixel-7a-alternatives-oneplus-11r-xiaomi-12-pro-motorola-edge-30-ultra-samsung-galaxy-a54-5g-xiaomi-12-pro-top-5-phones-you-can-consider-10077809",
+    "urlToImage": "https://imgeng.jagran.com/images/2023/may/google-pixel-7a-alternatives1683978395370.jpg",
+    "publishedAt": "2023-05-13T11:27:00Z",
+    "content": "GOOGLE Pixel 7a launched at Google I/O 2023, followed by an India debut on Flipkart. It drew massive media attention as buyers looking to buy a smartphone under Rs 45,000 got a fresh alternative stra… [+1933 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "The Indian Express",
+    "title": "Largest iPhone ever? iPhone 16 Pro Max could be sized a whopping 6.9 inches - The Indian Express",
+    "description": null,
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/iphone-16-pro-models-possible-size-bump-8607399/",
+    "urlToImage": "https://thumbs.dreamstime.com/b/hawa-mahal-palace-jaipur-rajasthan-36197345.jpg",
+    "publishedAt": "2023-05-13T11:07:19Z",
+    "content": "he Xiaomi Redmi A2 and Redmi A2+unveiled in March will debut in India on May 19. This revelation comes from Redmi, who shared a Twitter teaser announcing the Redmi A2 series"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Sagar",
+    "title": "Xiaomi Redmi A2, A2+ launching in India on May 19 - GSMArena.com",
+    "description": "The Indian units will run Android 13 out of the box. The Xiaomi Redmi A2 and Redmi A2+ unveiled in March will debut in India on May 19. This revelation...",
+    "url": "https://www.gsmarena.com/xiaomi_redmi_a2_redmi_a2_plus_india_launch_date-news-58544.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/05/xiaomi-redmi-a2-a2-plus-india-launch-date/-952x498w6/gsmarena_001.jpg",
+    "publishedAt": "2023-05-13T10:38:01Z",
+    "content": "The Xiaomi Redmi A2 and Redmi A2+unveiled in March will debut in India on May 19. This revelation comes from Redmi, who shared a Twitter teaser announcing the Redmi A2 series' India launch next Frida… [+840 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "BE Staff, ET BrandEquity",
+    "title": "Poco depicts relatable boss-employee dynamics with its latest campaign - ETBrandEquity",
+    "description": "With its humorous and relatable campaign, Poco aims to engage customers on a deeper level and reinforce its commitment to innovation and exceptional value.",
+    "url": "https://brandequity.economictimes.indiatimes.com/news/advertising/poco-depicts-relatable-boss-employee-dynamics-with-its-latest-campaign/100204808",
+    "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-100204808,imgsize-1186532,width-1200,height=765,overlay-etbrandequity/advertising/poco-depicts-relatable-boss-employee-dynamics-with-its-latest-campaign.jpg",
+    "publishedAt": "2023-05-13T10:31:55Z",
+    "content": "Smartphone brand Poco has announced the launch of its latest model, the Poco F5, with the campaign titled \"Return of the King”.Created in collaboration with Media.Monks India, the \"Return of the King… [+1368 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Tribune India"
+    },
+    "author": "The Tribune India",
+    "title": "Fast Lean Pro Reviews (2023) Shocking Customer Weight Loss Truth Exposed! - The Tribune India",
+    "description": null,
+    "url": "https://www.tribuneindia.com/news/brand-connect/fast-lean-pro-reviews-2023-shocking-customer-weight-loss-truth-exposed-507458",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T09:38:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "gizmochina"
+    },
+    "author": "gizmochina",
+    "title": "iQOO Pad passes 3C certification, reveals 44W charging - gizmochina",
+    "description": null,
+    "url": "https://www.gizmochina.com/2023/05/13/iqoo-pad-passes-3c-certification/",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T09:35:18Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "The Indian Express",
+    "title": "Now, create music with ChatGPT-like prompts: How to sign up for Google’s MusicLM - The Indian Express",
+    "description": null,
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-musiclm-explained-how-to-use-8607173/",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T09:18:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizchina.com"
+    },
+    "author": "Tony Muchiri",
+    "title": "WhatsApp to soon get Telegram like feature for broadcasting information - Gizchina.com",
+    "description": "As the pioneer of one-on-one messaging and group chats, WhatsApp has changed how we communicate. The introduction...",
+    "url": "https://www.gizchina.com/2023/05/13/whatsapp-to-soon-get-telegram-like-feature-for-broadcasting-information/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/05/alexander-shatov-_qsuER9xYOY-unsplash-1200x900.jpg",
+    "publishedAt": "2023-05-13T08:52:00Z",
+    "content": "As the pioneer of one-on-one messaging and group chats, WhatsApp has changed how we communicate. The introduction of Communities has made strides in facilitating larger group interactions. However, t… [+5849 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Siasat Daily"
+    },
+    "author": "Indo-Asian News Service",
+    "title": "Top 5 TWS earbuds under Rs 12K in India - The Siasat Daily",
+    "description": "New Delhi: Wireless earbuds have become increasingly popular in recent years, and for good reason, as they offer the convenience of not having to deal with wires while still delivering high-quality sound. TWS (True Wireless Stereo) earbuds have taken the mark…",
+    "url": "https://www.siasat.com/top-5-tws-earbuds-under-rs-12k-in-india-2588299/",
+    "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/05/Samsung-Buds.jpg",
+    "publishedAt": "2023-05-13T08:30:06Z",
+    "content": "New Delhi: Wireless earbuds have become increasingly popular in recent years, and for good reason, as they offer the convenience of not having to deal with wires while still delivering high-quality s… [+2925 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Insidesport.in"
+    },
+    "author": null,
+    "title": "Warzone Mobile Season 3 Reloaded: Check out Call of Duty Warzone Season 3 Reloaded patch notes here - InsideSport",
+    "description": "Warzone Mobile Season 3 Reloaded update is now available on live servers. Check out Call of Duty Warzone Season 3 Reloaded patch notes for all the intel here.",
+    "url": "https://www.insidesport.in/esports-call-of-duty-warzone-mobile-season-3-reloaded-check-out-call-of-duty-warzone-season-3-reloaded-patch-notes-for-all-the-intel-here/",
+    "urlToImage": "https://www.insidesport.in/wp-content/uploads/2023/05/Fv8pkZ3aMAAIyIt.jpg?w=809",
+    "publishedAt": "2023-05-13T08:27:13Z",
+    "content": "Warzone Mobile Season 3 Reloaded: The latest Limited Release update is now available for Call of Duty Warzone Mobile and with a variety…Warzone Mobile Season 3 Reloaded: The latest Limited Release up… [+3424 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "These WhatsApp users can now edit a sent message on Android phones - Times of India",
+    "description": "WhatsApp is testing the ability to edit a sent message, with a new edit button being rolled out to selected beta testers globally. The feature, offere",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/these-whatsapp-users-can-now-edit-a-sent-message-on-android-phones/articleshow/100206742.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-100206721,width-1070,height-580,imgsize-1121618,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2023-05-13T08:22:00Z",
+    "content": "Sony PS Store sale: PS5 and PS4 games under Rs 1,000"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "First Ride Review Of Porsche 718 Cayman GT4 RS | Overdrive | CNBC-TV18 - CNBC-TV18",
+    "description": "If you drive as many cars as one does on this job, you can't help but fall into a sense of coldness after a point. But then, a car comes along that shakes yo...",
+    "url": "https://www.youtube.com/watch?v=KH9q1Lj3Wv8",
+    "urlToImage": "https://i.ytimg.com/vi/KH9q1Lj3Wv8/maxresdefault.jpg",
+    "publishedAt": "2023-05-13T08:17:38Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "India Today"
+    },
+    "author": "Ankita Chakravarti",
+    "title": "iPhone 14 can be purchased at an effective price of Rs 45000 on Amazon, check out the deal - India Today",
+    "description": "The iPhone 14 was launched in India at Rs 79,999 for the 128GB variant. It comes with the A15 Bionic chip coupled with up to 512GB of RAM.",
+    "url": "https://www.indiatoday.in/technology/news/story/iphone-14-can-be-purchased-at-an-effective-price-of-rs-45000-on-amazon-check-out-the-deal-2378660-2023-05-13",
+    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/screenshot_2023-04-01_at_10.04.31_am-sixteen_nine.png?VersionId=hIU1q.XlMYlPSYmvMKTV_w73pjK1Z4tb",
+    "publishedAt": "2023-05-13T08:07:57Z",
+    "content": "By Ankita Chakravarti: Apple iPhone 14 is being sold at a discounted rate across e-commerce platforms. The phone, which is originally priced at Rs 79,900, is down to Rs 71,999. However, the price can… [+1832 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Ferrari 296 GTB v Ferrari SF90: DRAG RACE - carwow",
+    "description": "Thanks to everyone for lending us their cars:- Ferrari SF90: https://www.instagram.com/alwaysturnleft/- Ferrari 296 GTB: https://www.instagram.com/davidross1...",
+    "url": "https://www.youtube.com/watch?v=vg5Wh18LUtI",
+    "urlToImage": "https://i.ytimg.com/vi/vg5Wh18LUtI/maxresdefault.jpg",
+    "publishedAt": "2023-05-13T08:04:44Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizbot"
+    },
+    "author": "Alap Naik Desai",
+    "title": "How to Use ChatGPT-4 For Free: Popular Platforms Offering Access To Generative AI Latest Version - Gizbot",
+    "description": "The price of a ChatGPT Plus subscription is $20 (approx. ₹1600) per month. However, there are a few ways to access a chatbot based on ChatGPT-4 for free or way less money.",
+    "url": "https://www.gizbot.com/internet/features/how-to-use-chatgpt-4-for-free-popular-platforms-allowing-access-to-generative-ai-latest-version-085447.html",
+    "urlToImage": "https://www.gizbot.com/img/1200x60x675/img/2023/04/chatgpt-1682499682.jpg",
+    "publishedAt": "2023-05-13T07:45:16Z",
+    "content": "ChatGPT has taken the digital world by storm. The free version of the powerful Generative AI (Artificial Intelligence) chatbot is currently limited to ChatGPT v3. Meanwhile, OpenAI is offering paid a… [+3106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT Tech",
+    "title": "Man snaps 280000 images to create one awesome image of the Moon - HT Tech",
+    "description": "The man said he used two telescopes and over 2,80,000 separate images to make the full-scale snapshot of the Moon, which is over one gigapixel in size.",
+    "url": "https://tech.hindustantimes.com/tech/news/man-snaps-280000-images-to-create-one-awesome-image-of-the-moon-71683961407043.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2023/05/13/cropped/16-9/Man_snaps_280000_images_to_create_one_awesome_imag_1683962005183_1683962005493.jpg?impolicy=new-ht-20210112&width=1600",
+    "publishedAt": "2023-05-13T07:25:44Z",
+    "content": "American astrophotographer Andrew McCarthy has shared an incredibly detailed image of the moon on social media. The image showcases hardened lava lakes, worm-like collapsed lava tubes, permanently sh… [+1879 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WION"
+    },
+    "author": "WION Video Team",
+    "title": "Google releases 'the world's thinnest foldable phone' - WION",
+    "description": "Google has ambitious plans to gain a strong foothold in the foldable phone space. Why do we say that? Because Google has introduced its first foldable phone. But can it take on its competitors? Let's find out.",
+    "url": "https://www.wionews.com/videos/google-releases-the-worlds-thinnest-foldable-phone-591951",
+    "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/05/13/1305_KS_WION_GOOGLE_FOLD_TIO-1683961233-00000003.jpg",
+    "publishedAt": "2023-05-13T07:00:02Z",
+    "content": "© 2023. Indiadotcom Digital Private Limited. All Rights Reserved."
+    },
         
         {
         "source": {
@@ -97,7 +333,7 @@
                 "name": "Engadget"
             },
             "author": "Steve Dent",
-            "title": "Apple's 2nd-generation HomePod speaker gets its first discount",
+            "title": "Fency parihar hui pagal aake mumbai..!",
             "description": "The original HomePod arrived in 2018 and was discontinued in favor of the $99 HomePod Mini in 2021, but Apple brought it back earlier this year as a second generation model with upgraded audio and new smart home tools. Now, it's on sale for the first time at …",
             "url": "https://www.engadget.com/apples-2nd-generation-homepod-speaker-gets-its-first-discount-105536878.html",
             "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xx82NeVCd05gvKDUkky4dw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/69adbd20-efe0-11ed-bad3-ca5ff7fe31c5.cf.jpg",
@@ -519,448 +755,6 @@
             "urlToImage": "https://photos5.appleinsider.com/gallery/54367-109756-foxconn-xl.jpg",
             "publishedAt": "2023-05-11T13:14:27Z",
             "content": "Foxconn posts profit loss\r\nApple supplier Foxconn reported a 56% decline in first-quarter net profit, its biggest quarterly fall in three years, falling short of forecasts.\r\nDuring the January-March … [+1589 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AppleInsider"
-            },
-            "author": "news@appleinsider.com (Tyler Hayes)",
-            "title": "Bellroy Laptop Caddy review: Well designed & built MacBook protective sleeve",
-            "description": "Bellroy's new Laptop Caddy enables people to carry chargers, cables, pens, and other small accessories without a bulky bag — an ideal MacBook sleeve for minimalists.Bellroy Laptop CaddyAs far back as mainstream consumers were purchasing laptops en masse, ther…",
-            "url": "https://appleinsider.com/articles/23/05/11/bellroy-laptop-caddy-review-well-designed-built-macbook-protective-sleeve",
-            "urlToImage": "https://photos5.appleinsider.com/gallery/54330-109639-EAC5FF48-F599-4A73-AF53-ADB139644398-xl.jpg",
-            "publishedAt": "2023-05-11T10:43:56Z",
-            "content": "Bellroy Laptop Caddy\r\nBellroy's new Laptop Caddy enables people to carry chargers, cables, pens, and other small accessories without a bulky bag — an ideal MacBook sleeve for minimalists.\r\nAs far bac… [+3427 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Nina Raemont",
-            "title": "Google Wants to Make It Harder for Bad Actors to Track You. Here's How - CNET",
-            "description": "The tech giant is teaming up with Apple on alerts when an unrecognized Bluetooth device is traveling with you.",
-            "url": "https://www.cnet.com/tech/google-wants-to-make-it-harder-for-bad-actors-to-track-you-heres-how/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/1be52ac19451681b1a741ee9156e9a8bebe9fa48/hub/2021/05/08/fdb5e889-9e48-4394-91b1-f83832f0b59f/yt-airtag-vs-tile-5.jpg?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2023-05-11T13:00:02Z",
-            "content": "Unknown tracker alerts, which will let you know if an unrecognized Bluetooth device appears to be traveling with you, are coming to Android phones this summer, Google said Wednesday at its annual Goo… [+2935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Joshua Goldman",
-            "title": "Samsung Galaxy Book 3 Ultra Review: An Unmatched Windows Laptop Experience - CNET",
-            "description": "The sleek and speedy 16-inch Ultra laptop is a no-brainer for devoted Samsung Galaxy fans. There's much to like here for everyone else, too.",
-            "url": "https://www.cnet.com/tech/computing/samsung-galaxy-book-3-ultra-review-an-unmatched-windows-laptop-experience/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/63164aed1c819325f515756528001de66fb32125/hub/2023/04/26/df7eabee-9cbb-4196-bdfa-96ab61794591/samsung-galaxy-book-3-ultra-02.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-05-11T11:58:19Z",
-            "content": "The Samsung Galaxy Book 3 Ultra is as close to a MacBook Pro experience as you'll get with Windows and Android. The headline might be hyperbolic (what isn't on the web?), but the fact is there are no… [+11228 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Ty Pendlebury",
-            "title": "Bluesound Node X: Hands-On With the Upgraded Music Streamer - CNET",
-            "description": "The special edition wireless multiroom hi-res streamer features HDMI eARC, a dedicated headphone amp and impressive sound for $749.",
-            "url": "https://www.cnet.com/tech/home-entertainment/bluesound-node-x-hands-on-with-the-upgraded-music-streamer/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e55957d46979e64f160a10d5c88f83bbb687c4a8/hub/2023/05/10/258d4910-44af-4f30-a637-ae12893ceaa1/bluesound-node-x-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-05-11T12:00:11Z",
-            "content": "Wireless audio device-maker Bluesound has a new music streamer, the Node X. It's a 10th-anniversary special edition of its popular $599 Node wireless hi-res streamer, but with a host of new features … [+3240 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yanko Design"
-            },
-            "author": "JC Torres",
-            "title": "Google Pixel Tablet tries to redefine tablets with a homier design",
-            "description": "Google Pixel Tablet tries to redefine tablets with a homier designPerhaps save for the Apple iPad Pro and its equivalent Samsung Galaxy Tab S, there are still some people who are not yet sold on...",
-            "url": "https://www.yankodesign.com/2023/05/11/google-pixel-tablet-tries-to-redefine-tablets-with-a-homier-design/",
-            "urlToImage": "https://www.yankodesign.com/images/design_news/2023/05/google-pixel-tablet-tries-to-redefine-tablets-with-a-homier-design/google-pixel-tablet-0.jpg",
-            "publishedAt": "2023-05-11T10:55:45Z",
-            "content": "Perhaps save for the Apple iPad Pro and its equivalent Samsung Galaxy Tab S, there are still some people who are not yet sold on what a tablet is for. Some simply see it as a larger phone, which has … [+3020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Journal du geek"
-            },
-            "author": "Amandine Jonniaux",
-            "title": "Netatmo lance un boîtier connecté pour votre vieux climatiseur",
-            "description": "Netatmo va lancer un boîtier intelligent pour contrôler à distance vos appareils de gestion de tempréature.\nNetatmo lance un boîtier connecté pour votre vieux climatiseur",
-            "url": "https://www.journaldugeek.com/2023/05/11/netatmo-lance-un-boitier-connecte-pour-votre-vieux-climatiseur/",
-            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/template-jdg-2023-05-11t090211-021.jpg",
-            "publishedAt": "2023-05-11T07:05:41Z",
-            "content": "Netatmo va lancer un boîtier intelligent pour contrôler à distance vos appareils de gestion de tempréature.Dans la continuité logique d’une maison de plus en plus connectée, la marque de domotique Ne… [+2572 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Thomas Claburn",
-            "title": "Google IO: A deeper dive into the developer day's details",
-            "description": "WebGPU, Chrome extensions, Android, Dart, Flutter, and more\nGoogle's developer keynote at its IO show on Wednesday focused on Android and on web technology, which suddenly looks much more capable thanks to WebGPU, an API that allows web applications to tap in…",
-            "url": "https://www.theregister.com/2023/05/11/google_io_2023_developers/",
-            "urlToImage": "https://regmedia.co.uk/2023/05/10/android.jpg",
-            "publishedAt": "2023-05-11T00:20:12Z",
-            "content": "Google's developer keynote at its IO show on Wednesday focused on Android and on web technology, which suddenly looks much more capable thanks to WebGPU, an API that allows web applications to tap in… [+6794 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Miguel López",
-            "title": "Malas noticias: estas son todas las series de Apple TV+ que se han cancelado",
-            "description": "Netflix es quien tiene más fama de no tener piedad a la hora de cancelar series, pero eso no significa que en Apple no hayan tomado decisiones drásticas con su catálogo para priorizar el contenido que consigue más audiencia. Tenemos muchos estrenos en Apple T…",
-            "url": "https://www.applesfera.com/servicios-apple/malas-noticias-estas-todas-series-apple-tv-que-se-han-cancelado",
-            "urlToImage": "https://i.blogs.es/60a03f/shantaram-apple-tv/840_560.jpeg",
-            "publishedAt": "2023-05-11T11:01:41Z",
-            "content": "Netflix es quien tiene más fama de no tener piedad a la hora de cancelar series, pero eso no significa que en Apple no hayan tomado decisiones drásticas con su catálogo para priorizar el contenido qu… [+3026 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Miguel López",
-            "title": "Ya queda menos para tener WhatsApp en Apple Watch, y la pista viene de Android",
-            "description": "El Google I/O celebrado ayer vino repleto de novedades, sobre todo referentes a la IA, pero también hubo hueco para críticas veladas a Apple y varias sorpresas que nos interesan a pesar que no afecten a los dispositivos de la manzana. Una de esas sorpresas es…",
-            "url": "https://www.applesfera.com/aplicaciones-watchos/queda-para-tener-whatsapp-apple-watch-pista-viene-android",
-            "urlToImage": "https://i.blogs.es/cc36a9/captura-de-pantalla-2023-05-11-a-las-10.55.47/840_560.jpeg",
-            "publishedAt": "2023-05-11T09:11:41Z",
-            "content": "El Google I/O celebrado ayer vino repleto de novedades, sobre todo referentes a la IA, pero también hubo hueco para críticas veladas a Apple y varias sorpresas que nos interesan a pesar que no afecte… [+1755 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Miguel López",
-            "title": "“Esperamos que capten el mensaje”: Google dispara de nuevo contra Apple por no adoptar el protocolo RCS",
-            "description": "Por aquí seguimos esperando la WWDC 2023, pero en Google celebraron ayer su evento anual para desarrolladores en el que la compañía dio novedades de dispositivos, software y servicios. Y aunque todo se centró en las posibilidades de las inteligencias artifici…",
-            "url": "https://www.applesfera.com/servicios-apple/esperamos-que-capten-mensaje-google-dispara-nuevo-apple-no-adoptar-protocolo-rcs",
-            "urlToImage": "https://i.blogs.es/75669d/imessage-rcs-google-apple/840_560.jpeg",
-            "publishedAt": "2023-05-11T08:03:42Z",
-            "content": "Por aquí seguimos esperando la WWDC 2023, pero en Google celebraron ayer su evento anual para desarrolladores en el que la compañía dio novedades de dispositivos, software y servicios. Y aunque todo … [+2329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Pedro Aznar",
-            "title": "\"Pudimos crear algo que nunca antes habíamos visto\": la App Store es una mina de oro, los pequeños desarrolladores aumentaron sus ingresos en un 64% en los últimos dos años",
-            "description": "Los desarrolladores son una pieza clave en el éxito de la App Store. Son ellos quienes crean y mantienen las aplicaciones que hacen que a los usuarios les parezca atractivo el ecosistema - una pieza clave para el crecimiento de la compañía. Pero habitualmente…",
-            "url": "https://www.applesfera.com/apple-1/app-store-mina-oro-pequenos-desarrolladores-app-store-aumentaron-sus-ingresos-64-ultimos-dos-anos",
-            "urlToImage": "https://i.blogs.es/828009/desarrolladores-ganan-mas-dinero-en-app-store-005/840_560.jpeg",
-            "publishedAt": "2023-05-11T13:01:42Z",
-            "content": "Los desarrolladores son una pieza clave en el éxito de la App Store. Son ellos quienes crean y mantienen las aplicaciones que hacen que a los usuarios les parezca atractivo el ecosistema - una pieza … [+5744 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Jesús Quesada",
-            "title": "Varios teléfonos iPhone 14 y iPhone 14 Pro están todavía más rebajados en Amazon usando estos cupones",
-            "description": "Varios iPhone 14, iPhone 14 Plus, iPhone 14 Pro y iPhone 14 Pro Max ya estaban en oferta en Amazon (unos más que otros), pero hay algunos cupones con los que ciertos colores se quedan todavía más rebajados. Te contamos cuáles son para que puedas estrenar telé…",
-            "url": "https://www.applesfera.com/seleccion/varios-telefonos-iphone-14-iphone-14-pro-estan-todavia-rebajados-amazon-usando-estos-cupones",
-            "urlToImage": "https://i.blogs.es/36eda1/iphone-14-amazon-oferta/840_560.jpeg",
-            "publishedAt": "2023-05-11T06:50:44Z",
-            "content": "Varios iPhone 14, iPhone 14 Plus, iPhone 14 Pro y iPhone 14 Pro Max ya estaban en oferta en Amazon (unos más que otros), pero hay algunos cupones con los que ciertos colores se quedan todavía más reb… [+2589 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Isra Fdez",
-            "title": "Mientras Netflix cancela una serie de 200 millones, Apple TV+ presenta 'Ciudad en llamas', un adictivo thriller con crímenes y mucha música",
-            "description": "Apple está que no para. Mientras Netflix saca a pasear el martillo de las cancelaciones, con la inesperada conclusión de excelentes producciones como 'El hombre contra la abeja', Apple TV+ estrena este mismo viernes 12 de mayo los primeros tres episodios de '…",
-            "url": "https://www.applesfera.com/apple-tv/netflix-cancela-serie-200-millones-apple-tv-presenta-ciudad-llamas-adictivo-thriller-crimenes-mucha-musica",
-            "urlToImage": "https://i.blogs.es/80caa6/city_on_fire_photo_010303/840_560.jpeg",
-            "publishedAt": "2023-05-11T10:01:41Z",
-            "content": "Apple está que no para. Mientras Netflix saca a pasear el martillo de las cancelaciones, con la inesperada conclusión de excelentes producciones como 'El hombre contra la abeja', Apple TV+ estrena es… [+2537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MakeUseOf"
-            },
-            "author": "Brent Dirks",
-            "title": "Sonos Era 100 vs. Apple HomePod: Choosing the Best Smart Speaker for You",
-            "description": "See how these two popular smart speakers compare.",
-            "url": "https://www.makeuseof.com/sonos-era-100-vs-apple-homepod/",
-            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sonos-era-100-vs-apple-homepod.jpg",
-            "publishedAt": "2023-05-11T12:15:16Z",
-            "content": "On the top end of the smart speaker market, both the Sonos Era 100 and Apple’s second-generation HomePod offers great sound and a number of other features. But if you are in the market, it might be h… [+5674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MakeUseOf"
-            },
-            "author": "Christian Cawley",
-            "title": "No More Windows 10 Updates, Twitter Alternatives, and Why You Might Avoid Buying a Smart TV",
-            "description": "Our weekly tech podcast looks at the news that Windows 10 is now on its last version, and why you might not want a smart TV.",
-            "url": "https://www.makeuseof.com/no-more-windows-10-updates-twitter-alternatives-why-avoid-buying-smart-tv/",
-            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rup-smart-tvs-dont-need.jpg",
-            "publishedAt": "2023-05-11T10:30:17Z",
-            "content": "Sick of Twitter? Not sure whether to buy a new smart TV? Our tech podcast for technophobes has got just what you need: alternatives to Twitter, reasons to avoid a smart TV, and much more besides.\r\nWi… [+764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phandroid - News for Android"
-            },
-            "author": "Tyler Lee",
-            "title": "Google’s Find My Device will soon be able to help you find more of your gadgets",
-            "description": "Google has announced that they will be expanding its Find My Device network to include other devices like earbuds, headphones, tablets, and more.",
-            "url": "https://phandroid.com/2023/05/11/googles-find-my-device-will-soon-be-able-to-help-you-find-more-of-your-gadgets/",
-            "urlToImage": null,
-            "publishedAt": "2023-05-11T08:56:08Z",
-            "content": "Googles Find My Device network is similar to Apples Find My network where it can be used to help locate a phone that might have been lost or stolen. One advantage that Apples network has is that it c… [+1019 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phandroid - News for Android"
-            },
-            "author": "Tyler Lee",
-            "title": "5 reasons you should avoid the Google Pixel Tablet",
-            "description": "The Google Pixel Tablet was just announced and if you’re thinking about getting one, here are several reasons you might want to consider something else.",
-            "url": "https://phandroid.com/2023/05/11/5-reasons-you-should-avoid-the-google-pixel-tablet/",
-            "urlToImage": null,
-            "publishedAt": "2023-05-11T11:56:35Z",
-            "content": "At I/O 2023 yesterday, Google officially took the wraps off the Pixel Tablet. The tablet was originally teased back in 2022 with many expecting to launch last year, but for whatever reason, it only l… [+5240 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Presse-citron"
-            },
-            "author": "Setra",
-            "title": "WhatsApp débarque sur les montres connectées Android",
-            "description": "Google et Meta annoncent l’arrivée de WhatsApp sur les montres connectées Wear OS. Vous pourrez communiquer sur le service de messagerie sans prendre votre smartphone.",
-            "url": "https://www.presse-citron.net/?p=552917",
-            "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/WhatsApp-Wear-OS.jpg",
-            "publishedAt": "2023-05-11T06:30:03Z",
-            "content": "<ul><li>WhatsApp arrive sur les montres connectées Wear OS</li><li>La version pour montre permettra de lancer une discussion, de répondre aux messages, et même de faire des appels</li><li>Google prép… [+5030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ritholtz.com"
-            },
-            "author": "Barry Ritholtz",
-            "title": "10 Thursday AM Reads",
-            "description": "My morning train WFH reads: • Is the Fed data-driven or data-ridden? The Federal Reserve constantly reminds us that its decisions are “data-driven” or “data-dependent.” But what does that even mean? And what are the dangers when data loom too large? (Stay at …",
-            "url": "https://ritholtz.com/2023/05/10-thursday-am-reads-431/",
-            "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/05/brkperformance.png",
-            "publishedAt": "2023-05-11T10:55:15Z",
-            "content": "Is the Fed data-driven or data-ridden? The Federal Reserve constantly reminds us that its decisions are data-driven or data-dependent. But what does that even mean? And what are the dangers when data… [+3349 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka Android"
-            },
-            "author": "Alejandro Alcolea",
-            "title": "El Google I/O demuestra que la IA es la niña mimada de Google, los Pixel son secundarios",
-            "description": "Cada año por estas fechas, Google celebra un gran evento en el que nos habla sobre las novedades que han estado preparando a lo largo de los últimos meses y sobre tecnologías que podremos disfrutar en el futuro. Se trata del Google I/O, una cita centrada en s…",
-            "url": "https://www.xatakandroid.com/moviles-android/google-i-demuestra-que-ia-nina-mimada-google-pixel-secundarios",
-            "urlToImage": "https://i.blogs.es/b74393/captura-de-pantalla-2023-05-11-a-las-12.08.59/840_560.png",
-            "publishedAt": "2023-05-11T10:22:12Z",
-            "content": "Cada año por estas fechas, Google celebra un gran evento en el que nos habla sobre las novedades que han estado preparando a lo largo de los últimos meses y sobre tecnologías que podremos disfrutar e… [+3615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HYPEBEAST"
-            },
-            "author": "info@hypebeast.com (Hypebeast)",
-            "title": "Julian Klincewicz Presents Ethereal Mercedes-Benz x Dolby Atmos Campaign",
-            "description": "Mercedes-Benz has launched a new campaign titled \"Unheard Of,\" highlighting the ongoing partnership between the German automaker and Dolby Atmos.Taking it back to where it all started \"with the kick of a tape and click of a beat,\" the campaign film rewinds ba…",
-            "url": "https://hypebeast.com/2023/5/julian-klincewicz-mercedes-benz-dolby-atmos-campaign-info",
-            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fjulian-klincewicz-mercedes-benz-dolby-atmos-campaign-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-            "publishedAt": "2023-05-11T09:15:35Z",
-            "content": "Mercedes-Benz has launched a new campaign titled “Unheard Of,” highlighting the ongoing partnership between the German automaker and Dolby Atmos.\r\nTaking it back to where it all started “with the kic… [+1126 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "Aamir Siddiqui",
-            "title": "How many software updates will the Google Pixel 7a get?",
-            "description": "Google Pixels are one of the best phones you can get for software updates. Here's how many software updates the Pixel 7a will get!",
-            "url": "https://www.androidauthority.com/google-pixel-7a-software-updates-3320290/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/google-pixel-7a-home-screen-2.jpg",
-            "publishedAt": "2023-05-11T11:10:10Z",
-            "content": "The Pixel 7a is Googles mid-range Pixel offering in 2023. With a slightly higher price tag than before, the Pixel 7a still continues to provide one of the best Android experiences in the mid-range, a… [+3775 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "José Adorno",
-            "title": "Google’s Pixel Fold announcement makes me hope Apple never folds the iPhone",
-            "description": "On Wednesday, we got our first official look at Google’s attempt to become an AI-first company. Besides its software announcements, the company also introduced some …\nThe post Google’s Pixel Fold announcement makes me hope Apple never folds the iPhone appeare…",
-            "url": "https://bgr.com/tech/google-pixel-fold-announcement-makes-me-hope-apple-never-folds-the-iphone/",
-            "urlToImage": "https://bgr.com/wp-content/uploads/2023/05/google-io-2023-ai-122.jpg?quality=82&strip=all",
-            "publishedAt": "2023-05-11T12:48:18Z",
-            "content": "If you buy through links on BGR, we may receive an affiliate commission. Learn more.On Wednesday, we got our first official look at Google’s attempt to become an AI-first company. Besides its softwar… [+2605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Espinof.com"
-            },
-            "author": "Albertini",
-            "title": "Tom Holland y Amanda Seyfried tienen un cara a cara tras un tiroteo en el tráiler de 'The Crowded Room', el nuevo thriller de Apple TV+",
-            "description": "{\"videoId\":\"x8kuch8\",\"autoplay\":true,\"title\":\"The Crowded Room — Trailer oficial VOSE\",\"tag\":\"\"}\n \r\n\n\r\n\n En lo que esperamos volver a verle como Spiderman o curiosamente como Fred Astaire (aunque tardaremos, porque quiere tomarse un descanso), el próximo estr…",
-            "url": "https://www.espinof.com/trailers/tom-holland-amanda-seyfried-tienen-cara-a-cara-tiroteo-trailer-the-crowded-room-nuevo-thriller-apple-tv",
-            "urlToImage": "https://i.blogs.es/21df4b/x720/840_560.jpeg",
-            "publishedAt": "2023-05-11T11:01:41Z",
-            "content": "En lo que esperamos volver a verle como Spiderman o curiosamente como Fred Astaire (aunque tardaremos, porque quiere tomarse un descanso), el próximo estreno de Tom Holland es una serie de televisión… [+1226 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-            "title": "Apple TV is losing the man behind two of its most ambitious streaming deals",
-            "description": "Apple is losing yet another exec and this one is responsible for some big Apple TV deals.",
-            "url": "https://www.imore.com/music-movies-tv/apple-tv/apple-tv-is-losing-the-man-behind-two-of-its-most-ambitious-streaming-deals",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wTgoj9iRpmrgA7XE3cMds5-1200-80.jpg",
-            "publishedAt": "2023-05-11T10:12:56Z",
-            "content": "Apple continues to lose executives at an alarming rate and this time it's someone in charge of some of the biggest Apple TV deals to date.\r\nThat person is Pete Distad, someone who currently oversees … [+1644 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "Palash Volvoikar",
-            "title": "5 cool Google I/O announcements that Apple should steal",
-            "description": "Google just held its annual I/O keynote, and here are five cool Google I/O announcements that Apple should rip off.",
-            "url": "https://www.imore.com/apple/5-cool-google-io-announcements-that-apple-should-steal",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6Phvok7FKTHoZUge5uLQuE-1200-80.jpg",
-            "publishedAt": "2023-05-11T08:30:16Z",
-            "content": "Just as Apple has WWDC, Google has I/O. Over the years, some pretty great announcements have come from Google I/O, and the company just held its keynote of I/O 2023. There were a ton of exciting reve… [+6762 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-            "title": "Apple Watch helps a pregnant woman discover a life-threatening condition",
-            "description": "A pregnant woman discovered she had blood clots in her lungs thanks to an early Apple Watch warning.",
-            "url": "https://www.imore.com/health-fitness/apple-watch/apple-watch-helps-a-pregnant-woman-discover-a-life-threatening-condition",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dnxmDM78jK8RLbQrTpYBGo-1200-80.jpg",
-            "publishedAt": "2023-05-11T10:15:15Z",
-            "content": "A pregnant woman credits her Apple Watch with saving her life after it alerted her to an issue that turned out to be a life-threatening one that she wasn't yet aware of.\r\nThe woman, from Clydebank in… [+1555 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-            "title": "The Facebook Messenger Apple Watch app is going away and it's happening soon",
-            "description": "Facebook Messenger will no longer be available on the Apple Watch soon so you'll have to use your iPhone instead.",
-            "url": "https://www.imore.com/apps/social-apps/the-facebook-messenger-apple-watch-app-is-going-away-and-its-happening-soon",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LRp8rzK9jcVCMKX8dsTzYE-1200-80.jpg",
-            "publishedAt": "2023-05-11T11:14:17Z",
-            "content": "Facebook Messenger users who also happen to wear an Apple Watch are going to have to start using their iPhone to send messages soon, it seems.\r\nWhile neither Facebook nor Meta have officially announc… [+1725 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "Kevin Lynch",
-            "title": "What the Car? is the superbly surreal sequel to What the Golf? — and the funniest game you'll play all year",
-            "description": "Wacky racing driving game is the pick of the latest Apple Arcade drop, and will have you pulling over in stitches.",
-            "url": "https://www.imore.com/apps/what-the-car-is-the-superbly-surreal-sequel-to-what-the-golf-and-the-funniest-game-youll-play-all-year",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pPo9G7aVdR9aTYLDSNWtCC-1200-80.jpg",
-            "publishedAt": "2023-05-11T08:47:32Z",
-            "content": "Last Friday brought a bumper batch of new games added to Apple Arcade, with Sim City’s spiritual follow up Cityscapes: Sim Builder grabbing much of the attention. Arguably just as essential a downloa… [+1618 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
-            "title": "Final Cut Pro for iPad: Price, release date, and everything else you need to know",
-            "description": "Final Cut Pro is finally coming to the iPad and it's shaping up to be a great option for videographers.",
-            "url": "https://www.imore.com/apps/art-apps/final-cut-pro-for-ipad-price-release-date-and-everything-else-you-need-to-know",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9eHoDyBH7aRGjvgvwSE3RT-1200-80.jpg",
-            "publishedAt": "2023-05-11T11:17:11Z",
-            "content": "It's been a long time coming and some of us had started to wonder if it would ever happen, but Apple says that Final Cut Pro is coming to the iPad. And it's coming soon, too.\r\nThe pro-level video edi… [+6234 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
-            "title": "Google's panicked AI announcements could be a great opportunity for Apple",
-            "description": "At Google I/O this week, the company announced a barrage of AI features - but it sounded desperate.",
-            "url": "https://www.imore.com/apple/googles-panicked-ai-announcements-could-be-a-great-opportunity-for-apple",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/V6CJSj64FkpoKm3txjoC7K-1200-80.png",
-            "publishedAt": "2023-05-11T10:17:40Z",
-            "content": "Google held its yearly I/O conference this week, where it usually announces a new version of its Android operating system, some new Pixel phones, and some surprises. It did all of these things once a… [+3786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iMore"
-            },
-            "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
-            "title": "Five Zelda clones for iPhone to get you hyped for Tears of the Kingdom",
-            "description": "These five games on iPhone will scratch that Tears of the Kingdom itch.",
-            "url": "https://www.imore.com/gaming/ios-games/five-zelda-clones-for-iphone-to-get-you-hyped-for-tears-of-the-kingdom",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9fixccoxdw5kyLBmYHyC9N-1200-80.jpg",
-            "publishedAt": "2023-05-11T10:31:52Z",
-            "content": "The Legend of Zelda: Tears of the Kingdom is nearly here, and the hype for the Nintendo Switch’s follow-up to one of the best video games of all time, Breath of the Wild, is at a fever pitch.\r\nIf you… [+4924 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Les Numériques"
-            },
-            "author": "Mathieu Freitas",
-            "title": "Actualité : Netatmo veut connecter les climatiseurs",
-            "description": "La dernière solution de Netatmo vise à connecter les climatiseurs. Sobrement baptisée Commande intelligente de climatiseur, elle fonctionne comme une télécommande universelle dont les boutons auraient été déportés dans une application mobile.",
-            "url": "https://www.lesnumeriques.com/objet-connecte/netatmo-veut-connecter-les-climatiseurs-n209663.html",
-            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/20/209663/b0777179-netatmo-veut-connecter-les-climatiseurs__1200_630__0-207-1500-994.jpg",
-            "publishedAt": "2023-05-11T11:49:00Z",
-            "content": "Après le chauffage, c'est tout naturellement à la climatisation qu'a décidé de s'intéresser Netatmo, toujours avec la même ambition : faciliter l'utilisation, mais aussi limiter la consommation énerg… [+3886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xatakamovil.com"
-            },
-            "author": "Enrique Moraleda",
-            "title": "La última tablet básica de Apple ahora más barata que nunca: iPad 2022 por menos de 540 euros con cupón descuento",
-            "description": "Apple tiene en su catálogo de tablets algunos modelos más asequibles como este iPad (2022). Si estás pensando en cambiar de dispositivo ahora puedes conseguirlo en Amazon por 539,00 euros.\n<!-- BREAK 1 --><!-- PIVOT START -->\n\n \n \n \n \n \n \r\n\n \n Apple 2022 iPad…",
-            "url": "https://www.xatakamovil.com/apple/ultima-tablet-basica-apple-ahora-barata-que-nunca-ipad-2022-540-euros-cupon-descuento",
-            "urlToImage": "https://i.blogs.es/69c6ad/plantilla-imagenes---2023-05-11t111207.969/840_560.jpeg",
-            "publishedAt": "2023-05-11T11:01:41Z",
-            "content": "Apple tiene en su catálogo de tablets algunos modelos más asequibles como este iPad (2022). Si estás pensando en cambiar de dispositivo ahora puedes conseguirlo en Amazon por 539,00 euros.\r\nEl precio… [+1397 chars]"
         },
         {
             "source": {
