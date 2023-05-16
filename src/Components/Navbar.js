@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export default class Navbar extends Component {
   render() {
-    let {title ,S_business, S_entertainment}=this.props
+    let {title }=this.props
     return (
       <div>
         <nav className="navbar navbar-expand-lg"  style={{backgroundColor: '#e3f2fd'}}>

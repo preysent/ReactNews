@@ -27,6 +27,8 @@ export default class News extends Component {
   };
 
   nextButton=()=>{
+
+    
     
     if(this.state.noOfNews<=this.state.st){
 
@@ -57,13 +59,14 @@ export default class News extends Component {
 //  this function will run after render
   async componentDidMount(){
        
+    this.props.ProgressFn(5)
 
     this.setState({ loading:true})
 
     // updating the title of the page
     document.title=`${this.props.category} - NewsMeniya`
      
-      // let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=3bf5fc929c224dee98e4cdf51e86db5d`)
+      let data = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apikey}`)
 
 
       let parsedData = await data.json()
@@ -75,6 +78,8 @@ export default class News extends Component {
         loading:      false
       }) 
       console.log(this.state.noOfNews)
+
+      this.props.ProgressFn(100)
   } 
 
   
